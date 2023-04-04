@@ -2,9 +2,18 @@
   text-align: center;
 }
 
+.gral {
+  margin-top: 5rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.header-gral {
+  
+  border-style: solid;
 }
 
 @media (prefers-reduced-motion: no-preference) {
